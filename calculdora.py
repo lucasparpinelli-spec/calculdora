@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 ----
-teste.exe
+teste.exe merge conflito
 ----
 # Importações
 import datetime
