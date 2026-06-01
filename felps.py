@@ -5,3 +5,5 @@ def soma(n1,n2):
    return(resultado)
 
 print(felps('onda'))
+def despedida(nome):
+  return F"até mais,{nome}!"
